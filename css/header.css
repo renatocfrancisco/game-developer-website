@@ -28,6 +28,11 @@ header .social img{
     text-decoration: none;
 }
 
+.social p a{
+    color: #6a7ff3;
+    text-decoration: none;
+}
+
 .social img{
     filter: grayscale(1);
 }
