@@ -1,5 +1,8 @@
 {
   "tabWidth": 2,
-  "useTabs": false,
-  "htmlWhitespaceSensitivity": "css"
+  "useTabs": true,
+  "printWidth": 80,
+  "semi": false,
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "lf"
 }
