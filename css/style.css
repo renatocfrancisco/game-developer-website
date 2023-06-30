@@ -28,3 +28,7 @@ h2 {
 	color: #ffffff;
 	text-align: center;
 }
+
+.hidden{
+	display: none;
+}
