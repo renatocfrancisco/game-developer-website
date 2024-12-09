@@ -1,10 +1,11 @@
 .games {
 	display: flex;
-	flex-wrap: wrap;
+	flex-flow: wrap row;
 	justify-content: center;
 }
 
 .game {
+	flex-basis: content;
 	width: 45rem;
 	height: 20rem;
 	margin: 1rem;
