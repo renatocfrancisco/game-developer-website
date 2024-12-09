@@ -12,6 +12,7 @@ header .social {
 	justify-content: space-between;
 	width: 60rem;
 	padding-right: 30px;
+	list-style: none;
 }
 
 header .social img {
